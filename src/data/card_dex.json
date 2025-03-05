@@ -1,0 +1,4298 @@
+[
+    {
+      "number": "A1 001",
+      "name": "Bulbasaur",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 002",
+      "name": "Ivysaur",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 003",
+      "name": "Venusaur",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 004",
+      "name": "Venusaur ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 005",
+      "name": "Caterpie",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 006",
+      "name": "Metapod",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 007",
+      "name": "Butterfree",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 008",
+      "name": "Weedle",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 009",
+      "name": "Kakuna",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 010",
+      "name": "Beedrill",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 011",
+      "name": "Oddish",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 012",
+      "name": "Gloom",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 013",
+      "name": "Vileplume",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 014",
+      "name": "Paras",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 015",
+      "name": "Parasect",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 016",
+      "name": "Venonat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 017",
+      "name": "Venomoth",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 018",
+      "name": "Bellsprout",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 019",
+      "name": "Weepinbell",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 020",
+      "name": "Victreebel",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 021",
+      "name": "Exeggcute",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 022",
+      "name": "Exeggutor",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 023",
+      "name": "Exeggutor ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 024",
+      "name": "Tangela",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 025",
+      "name": "Scyther",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 026",
+      "name": "Pinsir",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 027",
+      "name": "Cottonee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 028",
+      "name": "Whimsicott",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 029",
+      "name": "Petilil",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 030",
+      "name": "Lilligant",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 031",
+      "name": "Skiddo",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 032",
+      "name": "Gogoat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 033",
+      "name": "Charmander",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 034",
+      "name": "Charmeleon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 035",
+      "name": "Charizard",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 036",
+      "name": "Charizard ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 037",
+      "name": "Vulpix",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 038",
+      "name": "Ninetales",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 039",
+      "name": "Growlithe",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 040",
+      "name": "Arcanine",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 041",
+      "name": "Arcanine ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 042",
+      "name": "Ponyta",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 043",
+      "name": "Rapidash",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 044",
+      "name": "Magmar",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 045",
+      "name": "Flareon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 046",
+      "name": "Moltres",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 047",
+      "name": "Moltres ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 048",
+      "name": "Heatmor",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 049",
+      "name": "Salandit",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 050",
+      "name": "Salazzle",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 051",
+      "name": "Sizzlipede",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 052",
+      "name": "Centiskorch",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 053",
+      "name": "Squirtle",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 054",
+      "name": "Wartortle",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 055",
+      "name": "Blastoise",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 056",
+      "name": "Blastoise ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 057",
+      "name": "Psyduck",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 058",
+      "name": "Golduck",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 059",
+      "name": "Poliwag",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 060",
+      "name": "Poliwhirl",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 061",
+      "name": "Poliwrath",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 062",
+      "name": "Tentacool",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 063",
+      "name": "Tentacruel",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 064",
+      "name": "Seel",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 065",
+      "name": "Dewgong",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 066",
+      "name": "Shellder",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 067",
+      "name": "Cloyster",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 068",
+      "name": "Krabby",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 069",
+      "name": "Kingler",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 070",
+      "name": "Horsea",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 071",
+      "name": "Seadra",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 072",
+      "name": "Goldeen",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 073",
+      "name": "Seaking",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 074",
+      "name": "Staryu",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 075",
+      "name": "Starmie",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 076",
+      "name": "Starmie ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 077",
+      "name": "Magikarp",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 078",
+      "name": "Gyarados",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 079",
+      "name": "Lapras",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 080",
+      "name": "Vaporeon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 081",
+      "name": "Omanyte",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 082",
+      "name": "Omastar",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 083",
+      "name": "Articuno",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 084",
+      "name": "Articuno ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 085",
+      "name": "Ducklett",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 086",
+      "name": "Swanna",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 087",
+      "name": "Froakie",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 088",
+      "name": "Frogadier",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 089",
+      "name": "Greninja",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 090",
+      "name": "Pyukumuku",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 091",
+      "name": "Bruxish",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 092",
+      "name": "Snom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 093",
+      "name": "Frosmoth",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 094",
+      "name": "Pikachu",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 095",
+      "name": "Raichu",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 096",
+      "name": "Pikachu ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 097",
+      "name": "Magnemite",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 098",
+      "name": "Magneton",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 099",
+      "name": "Voltorb",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 100",
+      "name": "Electrode",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 101",
+      "name": "Electabuzz",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 102",
+      "name": "Jolteon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 103",
+      "name": "Zapdos",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 104",
+      "name": "Zapdos ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 105",
+      "name": "Blitzle",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 106",
+      "name": "Zebstrika",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 107",
+      "name": "Tynamo",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 108",
+      "name": "Eelektrik",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 109",
+      "name": "Eelektross",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 110",
+      "name": "Helioptile",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 111",
+      "name": "Heliolisk",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 112",
+      "name": "Pincurchin",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 113",
+      "name": "Clefairy",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 114",
+      "name": "Clefable",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 115",
+      "name": "Abra",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 116",
+      "name": "Kadabra",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 117",
+      "name": "Alakazam",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 118",
+      "name": "Slowpoke",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 119",
+      "name": "Slowbro",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 120",
+      "name": "Gastly",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 121",
+      "name": "Haunter",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 122",
+      "name": "Gengar",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 123",
+      "name": "Gengar ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 124",
+      "name": "Drowzee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 125",
+      "name": "Hypno",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 126",
+      "name": "Mr. Mime",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 127",
+      "name": "Jynx",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 128",
+      "name": "Mewtwo",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 129",
+      "name": "Mewtwo ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 130",
+      "name": "Ralts",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 131",
+      "name": "Kirlia",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 132",
+      "name": "Gardevoir",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 133",
+      "name": "Woobat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 134",
+      "name": "Swoobat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 135",
+      "name": "Golett",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 136",
+      "name": "Golurk",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 137",
+      "name": "Sandshrew",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 138",
+      "name": "Sandslash",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 139",
+      "name": "Diglett",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 140",
+      "name": "Dugtrio",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 141",
+      "name": "Mankey",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 142",
+      "name": "Primeape",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 143",
+      "name": "Machop",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 144",
+      "name": "Machoke",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 145",
+      "name": "Machamp",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 146",
+      "name": "Machamp ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 147",
+      "name": "Geodude",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 148",
+      "name": "Graveler",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 149",
+      "name": "Golem",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 150",
+      "name": "Onix",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 151",
+      "name": "Cubone",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 152",
+      "name": "Marowak",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 153",
+      "name": "Marowak ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 154",
+      "name": "Hitmonlee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 155",
+      "name": "Hitmonchan",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 156",
+      "name": "Rhyhorn",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 157",
+      "name": "Rhydon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 158",
+      "name": "Kabuto",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 159",
+      "name": "Kabutops",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 160",
+      "name": "Mienfoo",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 161",
+      "name": "Mienshao",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 162",
+      "name": "Clobbopus",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 163",
+      "name": "Grapploct",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 164",
+      "name": "Ekans",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 165",
+      "name": "Arbok",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 166",
+      "name": "Nidoran F",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 167",
+      "name": "Nidorina",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 168",
+      "name": "Nidoqueen",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 169",
+      "name": "Nidoran M",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 170",
+      "name": "Nidorino",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 171",
+      "name": "Nidoking",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 172",
+      "name": "Zubat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 173",
+      "name": "Golbat",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 174",
+      "name": "Grimer",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 175",
+      "name": "Muk",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 176",
+      "name": "Koffing",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 177",
+      "name": "Weezing",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 178",
+      "name": "Mawile",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 179",
+      "name": "Pawniard",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 180",
+      "name": "Bisharp",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 181",
+      "name": "Meltan",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 182",
+      "name": "Melmetal",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 183",
+      "name": "Dratini",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 184",
+      "name": "Dragonair",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 185",
+      "name": "Dragonite",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 186",
+      "name": "Pidgey",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 187",
+      "name": "Pidgeotto",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 188",
+      "name": "Pidgeot",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 189",
+      "name": "Rattata",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 190",
+      "name": "Raticate",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 191",
+      "name": "Spearow",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 192",
+      "name": "Fearow",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 193",
+      "name": "Jigglypuff",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 194",
+      "name": "Wigglytuff",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 195",
+      "name": "Wigglytuff ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 196",
+      "name": "Meowth",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 197",
+      "name": "Persian",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 198",
+      "name": "Farfetch'd",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 199",
+      "name": "Doduo",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 200",
+      "name": "Dodrio",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 201",
+      "name": "Lickitung",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 202",
+      "name": "Chansey",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 203",
+      "name": "Kangaskhan",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 204",
+      "name": "Tauros",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 205",
+      "name": "Ditto",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 206",
+      "name": "Eevee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 207",
+      "name": "Eevee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 208",
+      "name": "Eevee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 209",
+      "name": "Porygon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 210",
+      "name": "Aerodactyl",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 211",
+      "name": "Snorlax",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 212",
+      "name": "Minccino",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 213",
+      "name": "Cinccino",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 214",
+      "name": "Wooloo",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 215",
+      "name": "Dubwool",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 216",
+      "name": "Helix Fossil",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 217",
+      "name": "Dome Fossil",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 218",
+      "name": "Old Amber",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 219",
+      "name": "Erika",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 220",
+      "name": "Misty",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 221",
+      "name": "Blaine",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 222",
+      "name": "Koga",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 223",
+      "name": "Giovanni",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 224",
+      "name": "Brock",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 225",
+      "name": "Sabrina",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 226",
+      "name": "Lt. Surge",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 227",
+      "name": "Bulbasaur",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 228",
+      "name": "Gloom",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 229",
+      "name": "Pinsir",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 230",
+      "name": "Charmander",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 231",
+      "name": "Rapidash",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 232",
+      "name": "Squirtle",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 233",
+      "name": "Gyarados",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 234",
+      "name": "Lapras",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 235",
+      "name": "Electrode",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 236",
+      "name": "Alakazam",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 237",
+      "name": "Slowpoke",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 238",
+      "name": "Diglett",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 239",
+      "name": "Cubone",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 240",
+      "name": "Nidoqueen",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 241",
+      "name": "Nidoking",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 242",
+      "name": "Golbat",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 243",
+      "name": "Weezing",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 244",
+      "name": "Dragonite",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 245",
+      "name": "Pidgeot",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 246",
+      "name": "Meowth",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 247",
+      "name": "Ditto",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 248",
+      "name": "Eevee",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 249",
+      "name": "Porygon",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 250",
+      "name": "Snorlax",
+      "rarity": "1-star",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 251",
+      "name": "Venusaur ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 252",
+      "name": "Exeggutor ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 253",
+      "name": "Charizard ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 254",
+      "name": "Arcanine ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 255",
+      "name": "Moltres ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 256",
+      "name": "Blastoise ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 257",
+      "name": "Starmie ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 258",
+      "name": "Articuno ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 259",
+      "name": "Pikachu ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 260",
+      "name": "Zapdos ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 261",
+      "name": "Gengar ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 262",
+      "name": "Mewtwo ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 263",
+      "name": "Machamp ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 264",
+      "name": "Marowak ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 265",
+      "name": "Wigglytuff ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 266",
+      "name": "Erika",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 267",
+      "name": "Misty",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 268",
+      "name": "Blaine",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 269",
+      "name": "Koga",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 270",
+      "name": "Giovanni",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 271",
+      "name": "Brock",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 272",
+      "name": "Sabrina",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 273",
+      "name": "Lt. Surge",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 274",
+      "name": "Moltres ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 275",
+      "name": "Articuno ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 276",
+      "name": "Zapdos ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 277",
+      "name": "Gengar ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 278",
+      "name": "Machamp ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 279",
+      "name": "Wigglytuff ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 280",
+      "name": "Charizard ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 281",
+      "name": "Pikachu ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 282",
+      "name": "Mewtwo ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 283",
+      "name": "Mew",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 284",
+      "name": "Charizard ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 285",
+      "name": "Pikachu ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1 286",
+      "name": "Mewtwo ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Genetic Apex (A1)"
+    },
+    {
+      "number": "A1a 001",
+      "name": "Exeggcute",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 002",
+      "name": "Exeggutor",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 003",
+      "name": "Celebi ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 004",
+      "name": "Snivy",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 005",
+      "name": "Servine",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 006",
+      "name": "Serperior",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 007",
+      "name": "Morelull",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 008",
+      "name": "Shiinotic",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 009",
+      "name": "Dhelmise",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 010",
+      "name": "Ponyta",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 011",
+      "name": "Rapidash",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 012",
+      "name": "Magmar",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 013",
+      "name": "Larvesta",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 014",
+      "name": "Volcarona",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 015",
+      "name": "Salandit",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 016",
+      "name": "Salazzle",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 017",
+      "name": "Magikarp",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 018",
+      "name": "Gyarados ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 019",
+      "name": "Vaporeon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 020",
+      "name": "Finneon",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 021",
+      "name": "Lumineon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 022",
+      "name": "Chewtle",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 023",
+      "name": "Drednaw",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 024",
+      "name": "Cramorant",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 025",
+      "name": "Pikachu",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 026",
+      "name": "Raichu",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 027",
+      "name": "Electabuzz",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 028",
+      "name": "Joltik",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 029",
+      "name": "Galvantula",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 030",
+      "name": "Dedenne",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 031",
+      "name": "Mew",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 032",
+      "name": "Mew ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 033",
+      "name": "Sigilyph",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 034",
+      "name": "Elgyem",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 035",
+      "name": "Beheeyem",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 036",
+      "name": "Flabebe",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 037",
+      "name": "Floette",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 038",
+      "name": "Florges",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 039",
+      "name": "Swirlix",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 040",
+      "name": "Slurpuff",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 041",
+      "name": "Mankey",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 042",
+      "name": "Primeape",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 043",
+      "name": "Geodude",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 044",
+      "name": "Graveler",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 045",
+      "name": "Golem",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 046",
+      "name": "Aerodactyl ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 047",
+      "name": "Marshadow",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 048",
+      "name": "Stonjourner",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 049",
+      "name": "Koffing",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 050",
+      "name": "Weezing",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 051",
+      "name": "Purrloin",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 052",
+      "name": "Liepard",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 053",
+      "name": "Venipede",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 054",
+      "name": "Whirlipede",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 055",
+      "name": "Scolipede",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 056",
+      "name": "Druddigon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 057",
+      "name": "Pidgey",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 058",
+      "name": "Pidgeotto",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 059",
+      "name": "Pidgeot ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 060",
+      "name": "Tauros",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 061",
+      "name": "Eevee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 062",
+      "name": "Chatot",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 063",
+      "name": "Old Amber",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 064",
+      "name": "Pokemon Flute",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 065",
+      "name": "Mythical Slab",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 066",
+      "name": "Budding Expeditioner",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 067",
+      "name": "Blue",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 068",
+      "name": "Leaf",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 069",
+      "name": "Exeggutor",
+      "rarity": "1-star",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 070",
+      "name": "Serperior",
+      "rarity": "1-star",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 071",
+      "name": "Salandit",
+      "rarity": "1-star",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 072",
+      "name": "Vaporeon",
+      "rarity": "1-star",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 073",
+      "name": "Dedenne",
+      "rarity": "1-star",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 074",
+      "name": "Marshadow",
+      "rarity": "1-star",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 075",
+      "name": "Celebi ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 076",
+      "name": "Gyarados ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 077",
+      "name": "Mew ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 078",
+      "name": "Aerodactyl ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 079",
+      "name": "Pidgeot ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 080",
+      "name": "Budding Expeditioner",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 081",
+      "name": "Blue",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 082",
+      "name": "Leaf",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 083",
+      "name": "Mew ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 084",
+      "name": "Aerodactyl ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 085",
+      "name": "Celebi ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A1a 086",
+      "name": "Mew ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Mythical Island (A1a)"
+    },
+    {
+      "number": "A2 001",
+      "name": "Oddish",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 002",
+      "name": "Gloom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 003",
+      "name": "Bellossom",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 004",
+      "name": "Tangela",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 005",
+      "name": "Tangrowth",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 006",
+      "name": "Yanma",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 007",
+      "name": "Yanmega ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 008",
+      "name": "Roselia",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 009",
+      "name": "Roserade",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 010",
+      "name": "Turtwig",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 011",
+      "name": "Grotle",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 012",
+      "name": "Torterra",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 013",
+      "name": "Kricketot",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 014",
+      "name": "Kricketune",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 015",
+      "name": "Burmy",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 016",
+      "name": "Wormadam",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 017",
+      "name": "Combee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 018",
+      "name": "Vespiquen",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 019",
+      "name": "Carnivine",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 020",
+      "name": "Leafeon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 021",
+      "name": "Mow Rotom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 022",
+      "name": "Shaymin",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 023",
+      "name": "Magmar",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 024",
+      "name": "Magmortar",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 025",
+      "name": "Slugma",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 026",
+      "name": "Magcargo",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 027",
+      "name": "Chimchar",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 028",
+      "name": "Monferno",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 029",
+      "name": "Infernape ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 030",
+      "name": "Heat Rotom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 031",
+      "name": "Swinub",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 032",
+      "name": "Piloswine",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 033",
+      "name": "Mamoswine",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 034",
+      "name": "Regice",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 035",
+      "name": "Piplup",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 036",
+      "name": "Prinplup",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 037",
+      "name": "Empoleon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 038",
+      "name": "Buizel",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 039",
+      "name": "Floatzel",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 040",
+      "name": "Shellos",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 041",
+      "name": "Gastrodon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 042",
+      "name": "Finneon",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 043",
+      "name": "Lumineon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 044",
+      "name": "Snover",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 045",
+      "name": "Abomasnow",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 046",
+      "name": "Glaceon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 047",
+      "name": "Wash Rotom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 048",
+      "name": "Frost Rotom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 049",
+      "name": "Palkia ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 050",
+      "name": "Manaphy",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 051",
+      "name": "Magnemite",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 052",
+      "name": "Magneton",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 053",
+      "name": "Magnezone",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 054",
+      "name": "Voltorb",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 055",
+      "name": "Electrode",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 056",
+      "name": "Electabuzz",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 057",
+      "name": "Electivire",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 058",
+      "name": "Shinx",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 059",
+      "name": "Luxio",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 060",
+      "name": "Luxray",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 061",
+      "name": "Pachirisu ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 062",
+      "name": "Rotom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 063",
+      "name": "Togepi",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 064",
+      "name": "Togetic",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 065",
+      "name": "Togekiss",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 066",
+      "name": "Misdreavus",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 067",
+      "name": "Mismagius ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 068",
+      "name": "Ralts",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 069",
+      "name": "Kirlia",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 070",
+      "name": "Duskull",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 071",
+      "name": "Dusclops",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 072",
+      "name": "Dusknoir",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 073",
+      "name": "Drifloon",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 074",
+      "name": "Drifblim",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 075",
+      "name": "Uxie",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 076",
+      "name": "Mesprit",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 077",
+      "name": "Azelf",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 078",
+      "name": "Giratina",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 079",
+      "name": "Cresselia",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 080",
+      "name": "Rhyhorn",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 081",
+      "name": "Rhydon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 082",
+      "name": "Rhyperior",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 083",
+      "name": "Gligar",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 084",
+      "name": "Gliscor",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 085",
+      "name": "Hitmontop",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 086",
+      "name": "Nosepass",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 087",
+      "name": "Regirock",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 088",
+      "name": "Cranidos",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 089",
+      "name": "Rampardos",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 090",
+      "name": "Wormadam",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 091",
+      "name": "Riolu",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 092",
+      "name": "Lucario",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 093",
+      "name": "Hippopotas",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 094",
+      "name": "Hippowdon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 095",
+      "name": "Gallade ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 096",
+      "name": "Murkrow",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 097",
+      "name": "Honchkrow",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 098",
+      "name": "Sneasel",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 099",
+      "name": "Weavile ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 100",
+      "name": "Poochyena",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 101",
+      "name": "Mightyena",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 102",
+      "name": "Stunky",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 103",
+      "name": "Skuntank",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 104",
+      "name": "Spiritomb",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 105",
+      "name": "Skorupi",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 106",
+      "name": "Drapion",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 107",
+      "name": "Croagunk",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 108",
+      "name": "Toxicroak",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 109",
+      "name": "Darkrai",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 110",
+      "name": "Darkrai ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 111",
+      "name": "Skarmory",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 112",
+      "name": "Registeel",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 113",
+      "name": "Shieldon",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 114",
+      "name": "Bastiodon",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 115",
+      "name": "Wormadam",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 116",
+      "name": "Bronzor",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 117",
+      "name": "Bronzong",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 118",
+      "name": "Probopass",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 119",
+      "name": "Dialga ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 120",
+      "name": "Heatran",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 121",
+      "name": "Gible",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 122",
+      "name": "Gabite",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 123",
+      "name": "Garchomp",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 124",
+      "name": "Lickitung",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 125",
+      "name": "Lickilicky ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 126",
+      "name": "Eevee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 127",
+      "name": "Porygon",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 128",
+      "name": "Porygon2",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 129",
+      "name": "Porygon-Z",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 130",
+      "name": "Aipom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 131",
+      "name": "Ambipom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 132",
+      "name": "Starly",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 133",
+      "name": "Staravia",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 134",
+      "name": "Staraptor",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 135",
+      "name": "Bidoof",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 136",
+      "name": "Bibarel",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 137",
+      "name": "Buneary",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 138",
+      "name": "Lopunny",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 139",
+      "name": "Glameow",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 140",
+      "name": "Purugly",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 141",
+      "name": "Chatot",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 142",
+      "name": "Fan Rotom",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 143",
+      "name": "Regigigas",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 144",
+      "name": "Skull Fossil",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 145",
+      "name": "Armor Fossil",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 146",
+      "name": "Pokemon Communication",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 147",
+      "name": "Giant Cape",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 148",
+      "name": "Rocky Helmet",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 149",
+      "name": "Lum Berry",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 150",
+      "name": "Cyrus",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 151",
+      "name": "Team Galactic Grunt",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 152",
+      "name": "Cynthia",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 153",
+      "name": "Volkner",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 154",
+      "name": "Dawn",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 155",
+      "name": "Mars",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 156",
+      "name": "Tangrowth",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 157",
+      "name": "Combee",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 158",
+      "name": "Carnivine",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 159",
+      "name": "Shaymin",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 160",
+      "name": "Mamoswine",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 161",
+      "name": "Gastrodon",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 162",
+      "name": "Manaphy",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 163",
+      "name": "Shinx",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 164",
+      "name": "Rotom",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 165",
+      "name": "Drifloon",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 166",
+      "name": "Mesprit",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 167",
+      "name": "Giratina",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 168",
+      "name": "Cresselia",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 169",
+      "name": "Rhyperior",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 170",
+      "name": "Lucario",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 171",
+      "name": "Hippopotas",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 172",
+      "name": "Spiritomb",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 173",
+      "name": "Croagunk",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 174",
+      "name": "Heatran",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 175",
+      "name": "Garchomp",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 176",
+      "name": "Staraptor",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 177",
+      "name": "Bidoof",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 178",
+      "name": "Glameow",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 179",
+      "name": "Regigigas",
+      "rarity": "1-star",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 180",
+      "name": "Yanmega ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 181",
+      "name": "Infernape ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 182",
+      "name": "Palkia ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 183",
+      "name": "Pachirisu ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 184",
+      "name": "Mismagius ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 185",
+      "name": "Gallade ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 186",
+      "name": "Weavile ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 187",
+      "name": "Darkrai ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 188",
+      "name": "Dialga ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 189",
+      "name": "Lickilicky ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 190",
+      "name": "Cyrus",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 191",
+      "name": "Team Galactic Grunt",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 192",
+      "name": "Cynthia",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 193",
+      "name": "Volkner",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 194",
+      "name": "Dawn",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 195",
+      "name": "Mars",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 196",
+      "name": "Yanmega ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 197",
+      "name": "Infernape ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 198",
+      "name": "Pachirisu ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 199",
+      "name": "Mismagius ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 200",
+      "name": "Gallade ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 201",
+      "name": "Weavile ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 202",
+      "name": "Darkrai ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 203",
+      "name": "Lickilicky ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 204",
+      "name": "Palkia ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 205",
+      "name": "Dialga ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 206",
+      "name": "Palkia ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2 207",
+      "name": "Dialga ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Space-Time Smackdown (A2)"
+    },
+    {
+      "number": "A2a 001",
+      "name": "Heracross",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 002",
+      "name": "Burmy",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 003",
+      "name": "Mothim",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 004",
+      "name": "Combee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 005",
+      "name": "Vespiquen",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 006",
+      "name": "Cherubi",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 007",
+      "name": "Cherrim",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 008",
+      "name": "Cherrim",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 009",
+      "name": "Carnivine",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 010",
+      "name": "Leafeon ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 011",
+      "name": "Houndour",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 012",
+      "name": "Houndoom",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 013",
+      "name": "Heatran",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 014",
+      "name": "Marill",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 015",
+      "name": "Azumarill",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 016",
+      "name": "Barboach",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 017",
+      "name": "Whiscash",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 018",
+      "name": "Snorunt",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 019",
+      "name": "Froslass",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 020",
+      "name": "Snover",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 021",
+      "name": "Abomasnow",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 022",
+      "name": "Glaceon ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 023",
+      "name": "Origin Forme Palkia",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 024",
+      "name": "Phione",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 025",
+      "name": "Pikachu",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 026",
+      "name": "Raichu",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 027",
+      "name": "Electrike",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 028",
+      "name": "Manectric",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 029",
+      "name": "Clefairy",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 030",
+      "name": "Clefable",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 031",
+      "name": "Gastly",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 032",
+      "name": "Haunter",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 033",
+      "name": "Gengar",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 034",
+      "name": "Unown",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 035",
+      "name": "Rotom",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 036",
+      "name": "Sudowoodo",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 037",
+      "name": "Phanpy",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 038",
+      "name": "Donphan",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 039",
+      "name": "Larvitar",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 040",
+      "name": "Pupitar",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 041",
+      "name": "Tyranitar",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 042",
+      "name": "Nosepass",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 043",
+      "name": "Meditite",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 044",
+      "name": "Medicham",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 045",
+      "name": "Gible",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 046",
+      "name": "Gabite",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 047",
+      "name": "Garchomp ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 048",
+      "name": "Zubat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 049",
+      "name": "Golbat",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 050",
+      "name": "Crobat",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 051",
+      "name": "Croagunk",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 052",
+      "name": "Toxicroak",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 053",
+      "name": "Magnemite",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 054",
+      "name": "Magneton",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 055",
+      "name": "Magnezone",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 056",
+      "name": "Mawile",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 057",
+      "name": "Probopass ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 058",
+      "name": "Bronzor",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 059",
+      "name": "Bronzong",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 060",
+      "name": "Origin Forme Dialga",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 061",
+      "name": "Giratina",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 062",
+      "name": "Eevee",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 063",
+      "name": "Snorlax",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 064",
+      "name": "Hoothoot",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 065",
+      "name": "Noctowl",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 066",
+      "name": "Starly",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 067",
+      "name": "Staravia",
+      "rarity": "1-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 068",
+      "name": "Staraptor",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 069",
+      "name": "Shaymin",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 070",
+      "name": "Arceus",
+      "rarity": "3-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 071",
+      "name": "Arceus ex",
+      "rarity": "4-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 072",
+      "name": "Irida",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 073",
+      "name": "Celestic Town Elder",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 074",
+      "name": "Barry",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 075",
+      "name": "Adaman",
+      "rarity": "2-diamond",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 076",
+      "name": "Houndoom",
+      "rarity": "1-star",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 077",
+      "name": "Marill",
+      "rarity": "1-star",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 078",
+      "name": "Unown",
+      "rarity": "1-star",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 079",
+      "name": "Sudowoodo",
+      "rarity": "1-star",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 080",
+      "name": "Magnemite",
+      "rarity": "1-star",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 081",
+      "name": "Shaymin",
+      "rarity": "1-star",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 082",
+      "name": "Leafeon ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 083",
+      "name": "Glaceon ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 084",
+      "name": "Garchomp ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 085",
+      "name": "Probopass ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 086",
+      "name": "Arceus ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 087",
+      "name": "Irida",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 088",
+      "name": "Celestic Town Elder",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 089",
+      "name": "Barry",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 090",
+      "name": "Adaman",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 091",
+      "name": "Leafeon ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 092",
+      "name": "Glaceon ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 093",
+      "name": "Garchomp ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 094",
+      "name": "Probopass ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 095",
+      "name": "Arceus ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "A2a 096",
+      "name": "Arceus ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Triumphant Light (A2a)"
+    },
+    {
+      "number": "P-A 001",
+      "name": "Potion",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 002",
+      "name": "X Speed",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 003",
+      "name": "Hand Scope",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 004",
+      "name": "Pokedex",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 005",
+      "name": "Poke Ball",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 006",
+      "name": "Red Card",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 007",
+      "name": "Professor's Research",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 008",
+      "name": "Pokedex",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 009",
+      "name": "Pikachu",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 010",
+      "name": "Mewtwo",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 011",
+      "name": "Chansey",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 012",
+      "name": "Meowth",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 013",
+      "name": "Butterfree",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 014",
+      "name": "Lapras ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 015",
+      "name": "Pikachu",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 016",
+      "name": "Clefairy",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 017",
+      "name": "Mankey",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 018",
+      "name": "Venusaur",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 019",
+      "name": "Greninja",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 020",
+      "name": "Haunter",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 021",
+      "name": "Onix",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 022",
+      "name": "Jigglypuff",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 023",
+      "name": "Bulbasaur",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 024",
+      "name": "Magnemite",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 025",
+      "name": "Moltres ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 026",
+      "name": "Pikachu",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 027",
+      "name": "Snivy",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 028",
+      "name": "Volcarona",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 029",
+      "name": "Blastoise",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 030",
+      "name": "Eevee",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 031",
+      "name": "Cinccino",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 032",
+      "name": "Charmander",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 033",
+      "name": "Squirtle",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 034",
+      "name": "Piplup",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 035",
+      "name": "Turtwig",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 036",
+      "name": "Electivire",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 037",
+      "name": "Cresselia ex",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 038",
+      "name": "Misdreavus",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 039",
+      "name": "Skarmory",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 040",
+      "name": "Chimchar",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    },
+    {
+      "number": "P-A 041",
+      "name": "Togepi",
+      "rarity": "unknown",
+      "exclusive_pack": "Promo"
+    }
+  ]
