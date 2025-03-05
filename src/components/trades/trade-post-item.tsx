@@ -23,6 +23,7 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
+import { Textarea } from "@/components/ui/textarea";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
@@ -34,6 +35,7 @@ import { createClient } from "@/lib/supabase/client";
 
 const notifyFormSchema = z.object({
   username: z.string().min(1, "Username is required"),
+  message: z.string().optional(),
 });
 
 interface TradePostItemProps {
@@ -63,6 +65,7 @@ export default function TradePostItem({
     resolver: zodResolver(notifyFormSchema),
     defaultValues: {
       username: "",
+      message: "",
     },
   });
 
@@ -149,11 +152,12 @@ export default function TradePostItem({
         return;
       }
       
-      // Create notification
+      // Create notification with optional message
       await supabase.from("user_notifications").insert({
         user_id: trade.user_id,
         trade_post_id: trade.id,
         notifier_username: values.username,
+        message: values.message || null,
       });
       
       // Also call the API route which will handle email/text notification if needed
@@ -165,6 +169,7 @@ export default function TradePostItem({
         body: JSON.stringify({
           tradeId: trade.id,
           notifierUsername: values.username,
+          message: values.message || null,
         }),
       });
       
@@ -309,6 +314,25 @@ export default function TradePostItem({
                     <FormLabel>Your Pokemon TCG Pocket Username</FormLabel>
                     <FormControl>
                       <Input {...field} placeholder="Your in-game username" />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+              
+              <FormField
+                control={form.control}
+                name="message"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>Message (Optional)</FormLabel>
+                    <FormControl>
+                      <Textarea 
+                        {...field} 
+                        placeholder="I have this card and would like to trade!" 
+                        rows={3}
+                        maxLength={200}
+                      />
                     </FormControl>
                     <FormMessage />
                   </FormItem>

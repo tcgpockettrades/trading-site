@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 "use client";
 
 import { useState, useEffect } from "react";
@@ -8,7 +9,7 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { Bell, RefreshCw, CheckCircle, PlusCircle } from "lucide-react";
+import { Bell, RefreshCw, CheckCircle, PlusCircle, MessageCircle } from "lucide-react";
 import { TradePost, UserNotification, TradePostWithCards } from "@/app/types";
 import { formatRelativeTime, isTradeExpiringSoon } from "@/lib/utils/index";
 import { cardService } from "@/lib/utils/card-service";
@@ -311,18 +312,29 @@ export default function DashboardPage() {
             ) : (
               <div className="space-y-4">
                 {notifications.map((notification) => (
-                  <Card key={notification.id}>
+                  <Card key={notification.id} className="overflow-hidden">
                     <CardContent className="p-4">
                       <div className="flex items-start justify-between">
-                        <div>
-                          <h3 className="font-medium mb-1">Trade Interest Notification</h3>
+                        <div className="flex-1">
+                          <div className="flex items-center gap-2 mb-1">
+                            <h3 className="font-medium">Trade Interest Notification</h3>
+                            {notification.message && (
+                              <Badge variant="outline" className="text-xs">
+                                <MessageCircle className="h-3 w-3 mr-1" />
+                                Message Included
+                              </Badge>
+                            )}
+                          </div>
+                          
                           <p className="text-sm text-muted-foreground mb-2">
                             User &quot;{notification.notifier_username}&quot; is interested in your trade
                           </p>
+                          
                           <p className="text-sm">
                             <span className="font-medium">When:</span>{" "}
                             {formatRelativeTime(notification.created_at)}
                           </p>
+                          
                           {notification.trade_post && (
                             <div className="mt-2">
                               <span className="text-sm font-medium">Trade:</span>{" "}
@@ -331,7 +343,18 @@ export default function DashboardPage() {
                               </span>
                             </div>
                           )}
+                          
+                          {notification.message && (
+                            <div className="mt-3 p-3 bg-muted rounded-md">
+                              <div className="flex items-center mb-1 text-sm font-medium">
+                                <MessageCircle className="h-4 w-4 mr-1" /> 
+                                Message from {notification.notifier_username}:
+                              </div>
+                              <p className="text-sm italic">"{notification.message}"</p>
+                            </div>
+                          )}
                         </div>
+                        
                         <Button
                           variant="outline"
                           size="sm"

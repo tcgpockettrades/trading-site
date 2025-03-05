@@ -4,7 +4,7 @@ import { NextRequest, NextResponse } from "next/server";
 export async function POST(request: NextRequest) {
   try {
     const supabase = createClient();
-    const { tradeId, notifierUsername } = await request.json();
+    const { tradeId, notifierUsername, message } = await request.json();
 
     if (!tradeId || !notifierUsername) {
       return NextResponse.json(
@@ -43,18 +43,23 @@ export async function POST(request: NextRequest) {
     const textEnabled = user.notification_preference.text;
     const emailAddress = user.notification_contact?.email;
     const phoneNumber = user.notification_contact?.phone;
-    
+
+    // Prepare message content
+    const messageContent = message 
+      ? `Message: "${message}"`
+      : "No additional message provided.";
+
     // Send email notification if enabled
     if (emailEnabled && emailAddress) {
       // In a real application, you would use an email service (SendGrid, Mailgun, etc.)
       console.log(`Sending email to ${emailAddress} about trade interest from ${notifierUsername}`);
-      
+      console.log(`Email includes message: ${messageContent}`);
       // Sample email code (not implemented)
       /*
       const emailData = {
         to: emailAddress,
         subject: "New Trade Interest Notification",
-        text: `User "${notifierUsername}" is interested in your trade for card ${tradePost.card_wanted}. Please check your notifications in the app.`,
+        text: `User "${notifierUsername}" is interested in your trade for card ${tradePost.card_wanted}. ${messageContent} Please check your notifications in the app.`,
       };
       await sendEmail(emailData);
       */
@@ -64,19 +69,24 @@ export async function POST(request: NextRequest) {
     if (textEnabled && phoneNumber) {
       // In a real application, you would use an SMS service (Twilio, etc.)
       console.log(`Sending SMS to ${phoneNumber} about trade interest from ${notifierUsername}`);
-      
+      console.log(`SMS includes message: ${messageContent}`);
       // Sample SMS code (not implemented)
       /*
       const smsData = {
         to: phoneNumber,
-        body: `PKMN TCG Pocket Trade: User "${notifierUsername}" is interested in your trade for card ${tradePost.card_wanted}.`,
+        body: `PKMN TCG Pocket Trade: User "${notifierUsername}" is interested in your trade for card ${tradePost.card_wanted}. ${messageContent}`,
       };
       await sendSMS(smsData);
       */
     }
 
     return NextResponse.json(
-      { success: true, emailSent: emailEnabled, smsSent: textEnabled },
+      { 
+        success: true, 
+        emailSent: emailEnabled, 
+        smsSent: textEnabled,
+        messageIncluded: !!message
+      },
       { status: 200 }
     );
   } catch (error) {

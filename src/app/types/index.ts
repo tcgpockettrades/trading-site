@@ -59,6 +59,7 @@ export interface Card {
     notifier_username: string;
     created_at: string;
     is_read: boolean;
+    message: string | null;
     trade_post?: TradePost;
   }
   
