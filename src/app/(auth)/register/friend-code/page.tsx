@@ -191,7 +191,7 @@ export default function FriendCodePage() {
                   <FormLabel>Friend Code</FormLabel>
                   <FormControl>
                     <Input
-                      placeholder="1234-5678-9012"
+                      placeholder="1234-5678-9012-3456"
                       {...field}
                       onChange={handleFriendCodeChange}
                     />

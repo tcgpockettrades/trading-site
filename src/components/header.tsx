@@ -210,7 +210,7 @@ export default function Header() {
 
         {/* Mobile navigation menu */}
         {menuOpen && (
-          <div className="absolute top-16 left-0 right-0 bg-background border-b md:hidden">
+          <div className="absolute top-16 left-0 right-0 bg-background border-b md:hidden px-4">
             <div className="container py-4 space-y-4">
               <Link
                 href="/trades"
