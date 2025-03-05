@@ -36,6 +36,9 @@ export default function TradesPage() {
   const loadTradePosts = async () => {
     setLoading(true);
     try {
+      // First, deactivate any posts older than 6 hours
+      await deactivateStaleTradesPosts();
+
       // Calculate range for pagination
       const from = (currentPage - 1) * PAGE_SIZE;
       const to = from + PAGE_SIZE - 1;
@@ -118,6 +121,28 @@ export default function TradesPage() {
       toast.error("Failed to load trade posts");
     } finally {
       setLoading(false);
+    }
+  };
+
+  // Function to deactivate trade posts older than 6 hours
+  const deactivateStaleTradesPosts = async () => {
+    try {
+      // Calculate the timestamp for 6 hours ago
+      const sixHoursAgo = new Date();
+      sixHoursAgo.setHours(sixHoursAgo.getHours() - 6);
+      
+      // Update posts where last_refreshed is older than 6 hours to is_active = false
+      const { error } = await supabase
+        .from("trade_posts")
+        .update({ is_active: false })
+        .eq("is_active", true)
+        .lt("last_refreshed", sixHoursAgo.toISOString());
+      
+      if (error) {
+        console.error("Error deactivating stale trade posts:", error);
+      }
+    } catch (error) {
+      console.error("Error in deactivateStaleTradesPosts:", error);
     }
   };
 
