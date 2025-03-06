@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Clipboard, RefreshCw, MailCheck, Check } from "lucide-react";
 import { Card } from "@/components/ui/card";
@@ -59,7 +59,29 @@ export default function TradePostItem({
   const [hasNotified, setHasNotified] = useState(false);
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [isCompleting, setIsCompleting] = useState(false);
+  const [userDetails, setUserDetails] = useState<any>(null);
   const supabase = createClient();
+
+  // Fetch user details directly if not available
+  useEffect(() => {
+    const fetchUserDetails = async () => {
+      if (!trade.user && trade.user_id) {
+        try {
+          const { data: userData } = await supabase
+            .from('users')
+            .select('id, email, friend_code, tcg_pocket_username')
+            .eq('id', trade.user_id)
+            .single();
+            
+          setUserDetails(userData);
+        } catch (error) {
+          console.error('Error fetching user details:', error);
+        }
+      }
+    };
+    
+    fetchUserDetails();
+  }, [trade, supabase]);
 
   const form = useForm<z.infer<typeof notifyFormSchema>>({
     resolver: zodResolver(notifyFormSchema),
@@ -69,14 +91,17 @@ export default function TradePostItem({
     },
   });
 
+  // Get the effective user data (either from trade or directly fetched)
+  const effectiveUserData = trade.user || userDetails;
+
   const copyFriendCode = () => {
-    if (!trade.user?.friend_code) return;
+    if (!effectiveUserData?.friend_code) return;
     
-    navigator.clipboard.writeText(formatFriendCode(trade.user.friend_code));
+    navigator.clipboard.writeText(effectiveUserData.friend_code);
     setIsCopied(true);
     
     toast.success("Friend code copied!", {
-      description: `${formatFriendCode(trade.user.friend_code)} copied to clipboard`
+      description: `${formatFriendCode(effectiveUserData.friend_code)} copied to clipboard`
     });
     
     setTimeout(() => {
@@ -192,6 +217,25 @@ export default function TradePostItem({
 
   const isExpired = isTradeExpired(trade.last_refreshed);
   
+  // Check if we have a friend code (from either source)
+  const hasFriendCode = effectiveUserData?.friend_code ? true : false;
+  const friendCodeDisplay = hasFriendCode 
+    ? formatFriendCode(effectiveUserData.friend_code) 
+    : "No friend code";
+  
+  // For debugging
+  useEffect(() => {
+    console.log("Trade Post Item Props:", {
+      tradeId: trade.id,
+      userId: trade.user_id,
+      user: trade.user,
+      directlyFetchedUser: userDetails,
+      effectiveUser: effectiveUserData,
+      hasFriendCode,
+      friendCodeValue: effectiveUserData?.friend_code
+    });
+  }, [trade, userDetails, hasFriendCode, effectiveUserData]);
+  
   return (
     <>
       <Card className="overflow-hidden p-0">
@@ -233,13 +277,13 @@ export default function TradePostItem({
             </div>
           </div>
 
-          {trade.user && (
-            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between border-t pt-3 mt-3">
-              <div className="flex items-center space-x-2 self-center sm:self-start">
-                <span className="text-sm font-medium">Friend Code:</span>
-                <span className="text-sm">
-                  {formatFriendCode(trade.user.friend_code || "")}
-                </span>
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between border-t pt-3 mt-3">
+            <div className="flex items-center space-x-2 self-center sm:self-start">
+              <span className="text-sm font-medium">Friend Code:</span>
+              <span className="text-sm">
+                {friendCodeDisplay}
+              </span>
+              {hasFriendCode && (
                 <Button
                   variant="ghost"
                   size="icon"
@@ -253,45 +297,45 @@ export default function TradePostItem({
                     <Clipboard className="h-4 w-4" />
                   )}
                 </Button>
-              </div>
-
-              {showActions && (
-                <div className="flex space-x-2 mt-2 sm:mt-0 self-center sm:self-auto">
-                  {isOwner ? (
-                    <>
-                      <Button 
-                        size="sm" 
-                        variant="secondary"
-                        onClick={handleRefresh}
-                        disabled={isRefreshing || !isExpired}
-                      >
-                        <RefreshCw className="h-4 w-4 mr-1" />
-                        {isRefreshing ? "Refreshing..." : "Refresh"}
-                      </Button>
-                      <Button 
-                        size="sm" 
-                        onClick={handleComplete}
-                        disabled={isCompleting}
-                      >
-                        <Check className="h-4 w-4 mr-1" />
-                        {isCompleting ? "Completing..." : "Mark Complete"}
-                      </Button>
-                    </>
-                  ) : (
-                    <Button
-                      size="sm"
-                      variant="default"
-                      onClick={() => setIsNotifyDialogOpen(true)}
-                      disabled={hasNotified}
-                    >
-                      <MailCheck className="h-4 w-4 mr-1" />
-                      {hasNotified ? "Notified" : "Notify Trader"}
-                    </Button>
-                  )}
-                </div>
               )}
             </div>
-          )}
+
+            {showActions && (
+              <div className="flex space-x-2 mt-2 sm:mt-0 self-center sm:self-auto">
+                {isOwner ? (
+                  <>
+                    <Button 
+                      size="sm" 
+                      variant="secondary"
+                      onClick={handleRefresh}
+                      disabled={isRefreshing || !isExpired}
+                    >
+                      <RefreshCw className="h-4 w-4 mr-1" />
+                      {isRefreshing ? "Refreshing..." : "Refresh"}
+                    </Button>
+                    <Button 
+                      size="sm" 
+                      onClick={handleComplete}
+                      disabled={isCompleting}
+                    >
+                      <Check className="h-4 w-4 mr-1" />
+                      {isCompleting ? "Completing..." : "Mark Complete"}
+                    </Button>
+                  </>
+                ) : (
+                  <Button
+                    size="sm"
+                    variant="default"
+                    onClick={() => setIsNotifyDialogOpen(true)}
+                    disabled={hasNotified}
+                  >
+                    <MailCheck className="h-4 w-4 mr-1" />
+                    {hasNotified ? "Notified" : "Notify Trader"}
+                  </Button>
+                )}
+              </div>
+            )}
+          </div>
         </div>
       </Card>
 

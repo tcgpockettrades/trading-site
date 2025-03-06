@@ -24,14 +24,46 @@ export default function TradesPage() {
   const [totalPages, setTotalPages] = useState(1);
   const [totalTrades, setTotalTrades] = useState(0);
   const [isRefreshing, setIsRefreshing] = useState(false);
+  const [currentUserId, setCurrentUserId] = useState<string | null>(null);
   const supabase = createClient();
   
   // Number of trades to load per page
   const PAGE_SIZE = 10;
 
   useEffect(() => {
+    // Get current user
+    const getCurrentUser = async () => {
+      const { data } = await supabase.auth.getSession();
+      if (data.session) {
+        setCurrentUserId(data.session.user.id);
+      }
+    };
+    
+    getCurrentUser();
+  }, [supabase]);
+
+  useEffect(() => {
     loadTradePosts();
   }, [filters, currentPage]);
+
+  // Function to extract user data from post, handling different possible structures
+  const extractUserData = (post: any) => {
+    // If we already manually fetched and attached user data
+    if (post.userDetails) {
+      return post.userDetails;
+    }
+    
+    // Try multiple possible locations for user data from a join
+    if (post.users && typeof post.users === 'object') {
+      return post.users;
+    } else if (post.user && typeof post.user === 'object') {
+      return post.user;
+    } else if (post.users && Array.isArray(post.users) && post.users.length > 0) {
+      return post.users[0];
+    }
+    
+    return null;
+  };
 
   const loadTradePosts = async () => {
     setLoading(true);
@@ -43,12 +75,12 @@ export default function TradesPage() {
       const from = (currentPage - 1) * PAGE_SIZE;
       const to = from + PAGE_SIZE - 1;
       
-      // Build the query based on filters with pagination
+      // Try a direct query first
       let query = supabase
         .from("trade_posts")
         .select(`
           *,
-          user:user_id(id, email, friend_code, tcg_pocket_username)
+          users!trade_posts_user_id_fkey(id, email, friend_code, tcg_pocket_username)
         `, { count: 'exact' })
         .eq("is_active", true)
         .eq("is_completed", false)
@@ -77,15 +109,58 @@ export default function TradesPage() {
         setTotalPages(Math.ceil(count / PAGE_SIZE));
       }
 
-      // Enhance posts with card details
-      const enhanced = await Promise.all(
-        (posts as TradePost[]).map(async (post) => {
+      // If no posts, return early
+      if (!posts || posts.length === 0) {
+        setTradePosts([]);
+        setLoading(false);
+        return;
+      }
+
+      // IMPORTANT: For each post where users is null/missing, fetch the user info directly
+      // This ensures we always have user data regardless of join issues
+      const enhancedWithUserDetails = await Promise.all(
+        posts.map(async (post: any) => {
+          // Check if we need to fetch user data separately
+          let userDetails = extractUserData(post);
+          
+          if (!userDetails && post.user_id) {
+            // Fetch user data directly if not included in the join
+            const { data: userData } = await supabase
+              .from('users')
+              .select('id, email, friend_code, tcg_pocket_username')
+              .eq('id', post.user_id)
+              .single();
+              
+            userDetails = userData;
+            // Attach to post for later use
+            post.userDetails = userData;
+          }
+          
+          return post;
+        })
+      );
+
+      // Now enhance with card details
+      const fullyEnhanced = await Promise.all(
+        enhancedWithUserDetails.map(async (post: any) => {
           // Get card wanted details
           const cardWantedDetails = await cardService.getCardByNumber(post.card_wanted);
           
           // Get cards for trade details
           const cardsForTradeDetails = await cardService.getCardsByNumbers(post.cards_for_trade);
           
+          // Extract user info - using our helper function
+          const userData = extractUserData(post);
+          
+          // Create a consistent user object, even if some fields are null
+          const userInfo = userData ? {
+            id: userData.id,
+            email: userData.email,
+            friend_code: userData.friend_code,
+            tcg_pocket_username: userData.tcg_pocket_username
+          } : null;
+          
+          // Create the enhanced post with complete user info
           return {
             ...post,
             card_wanted_details: cardWantedDetails || {
@@ -95,15 +170,16 @@ export default function TradesPage() {
               exclusive_pack: "Unknown",
             },
             cards_for_trade_details: cardsForTradeDetails,
+            user: userInfo
           } as TradePostWithCards;
         })
       );
 
       // Apply search filter (client-side since we need the card details)
-      let filtered = enhanced;
+      let filtered = fullyEnhanced;
       if (filters.search) {
         const search = filters.search.toLowerCase();
-        filtered = enhanced.filter(
+        filtered = fullyEnhanced.filter(
           (post) =>
             post.card_wanted_details.name.toLowerCase().includes(search) ||
             post.card_wanted_details.number.toLowerCase().includes(search) ||
@@ -114,6 +190,9 @@ export default function TradesPage() {
             )
         );
       }
+
+      // Log final data structure for debugging
+      console.log("Final trade posts with user data:", filtered);
 
       setTradePosts(filtered);
     } catch (error) {
@@ -229,13 +308,17 @@ export default function TradesPage() {
       ) : (
         <>
           <div className="grid grid-cols-1 gap-4">
-            {tradePosts.map((trade) => (
-              <TradePostItem
-                key={trade.id}
-                trade={trade}
-                showActions={true}
-              />
-            ))}
+            {tradePosts.map((trade) => {
+              const isOwner = currentUserId === trade.user_id;
+              return (
+                <TradePostItem
+                  key={trade.id}
+                  trade={trade}
+                  isOwner={isOwner}
+                  showActions={true}
+                />
+              );
+            })}
           </div>
           
           {/* Pagination Controls */}
